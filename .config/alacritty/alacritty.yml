@@ -4,6 +4,7 @@ window:
     y: 10
 
 font:
+  size: 11
   normal:
     family: Droid Sans Mono
     style: Regular
